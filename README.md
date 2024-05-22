@@ -11,8 +11,8 @@ In this course, You will practice more labs of Java. This will help you to maste
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                        |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 🎯 Sibling Money Division Game                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270905'>Start Challenge</a> |
 |     002 | 🎯 Sum of Three-Digit Number's Digits                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211066'>Start Challenge</a> |
 |     003 | 🎯 Launching Wayne's Automated Height Calculation        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270920'>Start Challenge</a> |
