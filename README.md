@@ -525,6 +525,7 @@ In this course, You will practice more labs of Java. This will help you to maste
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Java Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Java Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
 
