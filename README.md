@@ -11,7 +11,7 @@ In this course, You will practice more labs of Java. This will help you to maste
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|   Index | Name                                                    | Difficulty   | Practice                                                                   |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 🎯 Sibling Money Division Game                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270905'>Start Challenge</a> |
 |     002 | 🎯 Sum of Three-Digit Number's Digits                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211066'>Start Challenge</a> |
@@ -522,4 +522,9 @@ In this course, You will practice more labs of Java. This will help you to maste
 |     507 | 📖 Java 11 New Features                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117465'>Start Lab</a>       |
 |     508 | 🎯 Class Grade Ranking                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177935'>Start Challenge</a> |
 |     509 | 🎯 Chat Room Simulation                                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/188854'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
 
